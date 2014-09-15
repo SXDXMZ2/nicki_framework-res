@@ -30,6 +30,7 @@
     <item type="drawable" name="screen_background_holo_dark">#ff000000</item>
     <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
     <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+<<<<<<< HEAD
     <item type="drawable" name="APKTOOL_DUMMY_02c9">false</item>
     <item type="drawable" name="APKTOOL_DUMMY_02cd">false</item>
     <item type="drawable" name="APKTOOL_DUMMY_02ce">false</item>
@@ -136,4 +137,6 @@
     <item type="drawable" name="APKTOOL_DUMMY_05a9">false</item>
     <item type="drawable" name="APKTOOL_DUMMY_0620">false</item>
     <item type="drawable" name="APKTOOL_DUMMY_0629">false</item>
+=======
+>>>>>>> 330f68f... port sony framework
 </resources>
